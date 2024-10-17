@@ -5,8 +5,8 @@ The preprocess_text function employs several steps to clean and standardize text
 effective natural language processing:
 1. Library Utilization:
 • WordNetLemmatizer (NLTK) : Used for lemmatization, converting words to their base
-form.
-• String and re libraries: Employed for punctuation removal and text manipulation.
+form.\n
+• String and re libraries: Employed for punctuation removal and text manipulation.\n
 2. Punctuation Removal and Lowercasing:
 • Text is stripped of punctuation and converted to lowercase, ensuring uniformity and
 focusing on meaningful text.
